@@ -1,4 +1,4 @@
-This .py script is to allow you to batch download images from Civitai which has no native batch download or download all option. Other ways to download all your images may exist but all I can say is this one works and will be updated if it ever stops working.
+This .ipynb script is to allow you to batch download images from Civitai which has no native batch download or download all option. Other ways to download all your images may exist but all I can say is this one works and will be updated if it ever stops working.
 
 The code is for use in Google Colab and downloads your images to your Google Drive into a folder specified within the code. If the folder doesn't exist then it will obviously create it. The code has not been tested in any other way so if you try to do this locally or with another service it may fail.
 
@@ -10,3 +10,5 @@ If this code does any harm to your device, your account, or otherwise has unexpe
 
 If theres any issues or errors and you're 100% sure you put in the correct user information then contact me either via Civiati or here on Github and I will try to fix the issue.
 Please make sure you read the license file as it explains the usage rights you have to this code.
+
+To use this you'll need to download the .ipynb file and then go to https://colab.research.google.com/ and "upload a notebook" and choose the file. Then just follow the instructions in the colab.
